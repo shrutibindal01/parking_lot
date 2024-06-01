@@ -15,7 +15,7 @@ Prerequisites
 Running the Program
 Clone the repository:
   1. git clone https://github.com/shrutibindal01/parking_lot
-  2. cd parking_lot
+  2. cd parkinglot
   3. pip install boto3
   4. export AWS_ACCESS_KEY_ID=<your-access-key-id>
   5.export AWS_SECRET_ACCESS_KEY=<your-secret-access-key>
